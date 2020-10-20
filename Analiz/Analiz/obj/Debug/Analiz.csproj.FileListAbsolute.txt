@@ -1,0 +1,13 @@
+C:\Users\Diren\source\repos\Analiz\Analiz\bin\Debug\Analiz.exe.config
+C:\Users\Diren\source\repos\Analiz\Analiz\bin\Debug\Analiz.exe
+C:\Users\Diren\source\repos\Analiz\Analiz\bin\Debug\Analiz.pdb
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.csprojAssemblyReference.cache
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.Form1.resources
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.Properties.Resources.resources
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.csproj.GenerateResource.cache
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.csproj.CoreCompileInputs.cache
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.exe
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.pdb
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.Graphpage.resources
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.Searchpage.resources
+C:\Users\Diren\source\repos\Analiz\Analiz\obj\Debug\Analiz.Winlist.resources
